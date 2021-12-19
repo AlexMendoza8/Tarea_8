@@ -1,3 +1,7 @@
+#Desarrollado en colaboración entre el compañero Guillermo Arjona y mi persona
+
+
+
 from website import create_app
 import yagmail
 #from website import celery
